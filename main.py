@@ -17,3 +17,12 @@ y="nowy fragment kodu"
 
 # Tworzenie commita
 # git commit -m "wiadomosc"
+
+#spr commitów
+# git log --oneline
+
+# powrót do przeszłosdci do commita
+# git checkout <id commita>
+
+#wyswietlenie galezi
+#git branch
