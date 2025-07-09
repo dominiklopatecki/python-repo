@@ -1,0 +1,1 @@
+content = "opis repozytorium"
